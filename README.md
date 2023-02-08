@@ -1,2 +1,2 @@
-# auth-login
- Create auth login and registration in React
+# auth0-login
+ Create auth0 login and registration in React using OAuth2
